@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChineseCatto</string>
+    <string name="hello_scot">Hello, Scot!</string>
+    <string name="welcome_message">Welcome to Chinese Catto</string>
+    <string name="greeting">Hello %1$s!</string>
+    <string name="android">Android</string>
+</resources>
